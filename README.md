@@ -43,7 +43,11 @@ Este é mais um passo na jornada de aprendizado contínuo em inteligência artif
 
 ## 📂 Projetos Relacionados
 
-Em breve, este repositório poderá incluir notebooks, exemplos de código e projetos desenvolvidos com base nos conhecimentos adquiridos no curso.
+Em breve, este repositório poderá incluir mais notebooks, exemplos de código e projetos desenvolvidos com base nos conhecimentos adquiridos no curso.
+
+### Projeto principal
+
+Classificacao de Digitos MNIST com Rede Neural Simples em PyTorch (Notebook.ipynb com o mesmo nome presente no repositorio) 
 
 ---
 
